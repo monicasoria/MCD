@@ -1,2 +1,2 @@
-# MCD
-This repository contains my work during my Data Science Master at Universidad de Guadalajara. 
+# **ABOUT PROJECTS**
+This repository contains some projects developed with Python 
